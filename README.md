@@ -2,7 +2,7 @@
 
 Hello , Welcome my Name is Soumil Nitin Shah I Want to show you How to write state of art Object Oriented code using Metaclasses , Design Pattern , Descriptors , Decorators , Slots 
 
-* Tutorial : https://www.youtube.com/watch?v=DE0C7k7FnIE
+* Tutorial : https://www.youtube.com/watch?v=9VFc55nlVx8
 
 Objective: How can we Impose Rules while Creating classes with MetaClass 
 
